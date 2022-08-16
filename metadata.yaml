@@ -1,0 +1,33 @@
+_repo: Land-without-chimneys-or-the-byways-of-Mexico_68556
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coffin, Alfred Oscar
+    birthdate: 1861
+    deathdate: 1933
+    gutenberg_agent_id: '52925'
+    url: http://www.gutenberg.org/2009/agents/52925
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Oscar_Coffin
+description: ''
+gutenberg_issued: '2022-07-18'
+identifiers:
+  gutenberg: '68556'
+  lccn: '00000227'
+language: en
+pgterms:marc904: https://archive.org/details/landwithoutchimn00coff_0/page/n5/mode/2up
+pgterms:marc905: 20201222200638coffin
+pgterms:marc906: '1898'
+pgterms:marc907: US
+production_note: Mary Glenn Krause, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :The Editor Publishing Co.,1898.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexico -- Description and travel'
+- !lcc 'F1201'
+- GITenberg
+title: Land without chimneys; or, the byways of Mexico
+url: http://www.gutenberg.org/ebooks/68556
