@@ -1,5 +1,8 @@
 _repo: Land-without-chimneys-or-the-byways-of-Mexico_68556
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68556-h/images/cover.jpg
 creator:
   author:
     agent_name: Coffin, Alfred Oscar
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52925
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Oscar_Coffin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68556#Land-without-chimneys-or-the-byways-of-Mexico
 gutenberg_issued: '2022-07-18'
 identifiers:
   gutenberg: '68556'
